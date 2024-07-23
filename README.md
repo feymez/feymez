@@ -8,7 +8,7 @@
      <img src="https://skillicons.dev/icons?i=gmail" /> <br>
     <a href="mailto:brajan@skiba.pro">brajan@skiba.pro</a> <br>
      <img src="https://skillicons.dev/icons?i=discord" /> <br>
-    <b>donfeymezo.</b> or <b href="discord.gg/6ZZUYcRxja">discord.gg/6ZZUYcRxja</b>
+    <b>donfeymezo.</b> or <b href="https://discord.gg/6ZZUYcRxja">discord.gg/6ZZUYcRxja</b>
   </a>
 </p>
 
