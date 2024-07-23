@@ -5,9 +5,11 @@
 # 📩 How to contact me
 
 [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) 
+
 `brajan@skiba.pro`
 
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) 
+
 `donfeymezo.` or `discord.gg/6ZZUYcRxja`
 
 
