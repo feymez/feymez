@@ -6,7 +6,7 @@
 <p align="center">
   <a>
      <img src="https://skillicons.dev/icons?i=gmail" /> <br>
-    brajan@skiba.pro <br>
+    <a href="brajan@skiba.pro">brajan@skiba.pro</a> <br>
      <img src="https://skillicons.dev/icons?i=discord" /> <br>
     <b>donfeymezo.</b> or <b>discord.gg/6ZZUYcRxja</b>
   </a>
