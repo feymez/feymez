@@ -5,8 +5,8 @@
 # 📩 How to contact me
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=gmail" />
-    `brajan@skiba.pro`
+     <img src="https://skillicons.dev/icons?i=gmail" /> <br>
+    brajan@skiba.pro
   </a>
 </p>
 
