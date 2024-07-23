@@ -5,14 +5,8 @@
 # 📩 How to contact me
 <p align="center">
   <a href="https://skillicons.dev">
-    [![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) 
-    
+     <img src="https://skillicons.dev/icons?i=gmail" />
     `brajan@skiba.pro`
-    
-    [![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) 
-    
-    `donfeymezo.` or `discord.gg/6ZZUYcRxja`
-
   </a>
 </p>
 
