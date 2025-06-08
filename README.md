@@ -6,6 +6,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
+
 # 📩 How to contact me
 <p align="center">
   <a>
