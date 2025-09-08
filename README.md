@@ -1,13 +1,19 @@
 
 # 💻 My Skills:
+## Web dev:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,php)](https://skillicons.dev)
 
+## Backend:
 [![My Skills](https://skillicons.dev/icons?i=lua,py)](https://skillicons.dev)
 
+## Database:
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+## OS:
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali)](https://skillicons.dev)
+
+## Other:
+[![My Skills](https://skillicons.dev/icons?i=git,cloudflare)](https://skillicons.dev)
 
 # 📩 How to contact me
 <p align="center">
