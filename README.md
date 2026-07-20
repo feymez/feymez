@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=lua,py)](https://skillicons.dev)
 
 ## Database:
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
 
 ## OS:
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali)](https://skillicons.dev)
