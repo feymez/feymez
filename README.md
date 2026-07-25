@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)
 
 ## OS:
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,debian,kali)](https://skillicons.dev)
 
 ## Other:
 [![My Skills](https://skillicons.dev/icons?i=git,cloudflare)](https://skillicons.dev)
