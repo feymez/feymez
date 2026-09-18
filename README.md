@@ -12,6 +12,9 @@
 ## OS:
 [![My Skills](https://skillicons.dev/icons?i=windows,debian,kali)](https://skillicons.dev)
 
+## DevOps & Infrastructure:
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+
 ## Other:
 [![My Skills](https://skillicons.dev/icons?i=git,cloudflare)](https://skillicons.dev)
 
